@@ -1,0 +1,6 @@
+env/
+__pycache__/
+.ipnyp_checkpoints/
+.env
+data/
+lag-llama/
