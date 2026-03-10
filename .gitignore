@@ -1,6 +1,7 @@
-env/
+﻿env/
 __pycache__/
 .ipnyp_checkpoints/
 .env
-data/
-lag-llama/
+lag-llama/checkpoints/
+lag-llama/*.ckpt
+lag-llama/lag-llama.ckpt

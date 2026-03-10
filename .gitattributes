@@ -1,0 +1,4 @@
+﻿* text=auto
+*.pkl binary
+*.csv binary
+*.keras binary
